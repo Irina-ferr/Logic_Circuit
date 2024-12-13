@@ -3,7 +3,7 @@
 	<lc:Project>
 		<lc:ProjectId>17d391c4-3df0-4ee5-b5b2-25d6335fa2da</lc:ProjectId>
 		<lc:Name>Проект</lc:Name>
-		<lc:LogicalCircuitId>6a7ccbf8-98c8-4d6d-a25e-320bdf413069</lc:LogicalCircuitId>
+		<lc:LogicalCircuitId>f3119258-daa1-4f91-9595-a9f1a0a41068</lc:LogicalCircuitId>
 	</lc:Project>
 	<lc:LogicalCircuit>
 		<lc:LogicalCircuitId>4526aca2-5295-4777-92ef-67cdc083226f</lc:LogicalCircuitId>
@@ -60,6 +60,16 @@
 		<lc:LogicalCircuitId>6a7ccbf8-98c8-4d6d-a25e-320bdf413069</lc:LogicalCircuitId>
 		<lc:Name>Счетчик</lc:Name>
 		<lc:Notation>count</lc:Notation>
+	</lc:LogicalCircuit>
+	<lc:LogicalCircuit>
+		<lc:LogicalCircuitId>f3119258-daa1-4f91-9595-a9f1a0a41068</lc:LogicalCircuitId>
+		<lc:Name>Регистр на d</lc:Name>
+		<lc:Notation>Схема</lc:Notation>
+	</lc:LogicalCircuit>
+	<lc:LogicalCircuit>
+		<lc:LogicalCircuitId>ae029993-a425-4052-8d40-6f1341b03f6e</lc:LogicalCircuitId>
+		<lc:Name>Регистр на jk</lc:Name>
+		<lc:Notation>Схема</lc:Notation>
 	</lc:LogicalCircuit>
 	<lc:Pin>
 		<lc:PinId>40540848-4d1e-4968-8e27-69d125f3e43d</lc:PinId>
